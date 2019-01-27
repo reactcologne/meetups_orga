@@ -17,6 +17,7 @@ Am Tag des Events:
 * [ ] Getränke kalt stellen
 
 Standardablauf:
+
 | Zeit     | Agendapunkt |
 | -------- | ----------- |
 | ab 18:30 | Ankommen
