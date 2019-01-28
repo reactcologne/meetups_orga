@@ -1,5 +1,5 @@
 Requirements:
-* Platz für 20-50 Teilnehmer (durchschnittlicch ca. 35)
+* Platz für 20-50 Teilnehmer (durchschnittlich ca. 35)
 * Räume für 2 parallele Tracks + ggf. noch Platz für einen Social-/Hallway-Track
 * Location sollte von innerhalb Köln OK erreichbar sein
 
