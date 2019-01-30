@@ -13,7 +13,7 @@ Vorbereitung:
 * [ ] Getränke (und gerne auch Catering) organisieren
 
 Am Tag des Events:
-* [ ] Schilder aufhängen (Eingangstür, Aufzug, usw.), damit die die Teilnehmer die richtigen Räumlichkeiten finden
+* [ ] Schilder aufhängen (Eingangstür, Aufzug, usw.), damit die Teilnehmer die richtigen Räumlichkeiten finden
 * [ ] Getränke kalt stellen
 
 Standardablauf:
