@@ -15,6 +15,7 @@ Vorbereitung:
 Am Tag des Events:
 * [ ] Schilder aufhängen (Eingangstür, Aufzug, usw.), damit die Teilnehmer die richtigen Räumlichkeiten finden
 * [ ] Getränke kalt stellen
+* [ ] WiFI einrichten (ggf Passwort ändern) und Schilder aufhängen
 
 Standardablauf:
 
