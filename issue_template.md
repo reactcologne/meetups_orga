@@ -9,6 +9,7 @@ Vorbereitung:
 * [ ] Event bei Meetup.com anlegen
 * [ ] Event über Meetup.com ankündigen
 * [ ] Event ggf. noch über andere Kanäle (z.B. Twitter) ankündigen
+* [ ] Ein paar Tage vor dem Event Reminder mit Last-Minute Infos verschicken ((ventseite > Organistoren Tools > Teilnehmer kontaktieren)
 * [ ] Moderator (ggf. Co-Moderator) festlegen
 * [ ] Getränke (und gerne auch Catering) organisieren
 
