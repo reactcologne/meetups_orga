@@ -4,7 +4,7 @@ Requirements:
 * Location sollte von innerhalb Köln OK erreichbar sein
 
 Vorbereitung:
-* [ ] Datum in Slack #orga vorschlagen und mindestens 24h auf Feedback warten
+* [ ] Datum in Slack #orga vorschlagen und mindestens 24h auf Feedback warten (z.B. ob es schwerwiegende Terminkonflikte mit anderen Events oder so gibt)
 * [ ] Co-Organisator bei Meetup.com werden
 * [ ] Event bei Meetup.com anlegen
 * [ ] Event über Meetup.com ankündigen
