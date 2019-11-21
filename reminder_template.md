@@ -1,10 +1,10 @@
-TItle: React Cologne Meetup this WEEKDAY
+Title: React Cologne Meetup this WEEKDAY
 
 Dear fellow React-enthusiasts!
 
-We are looking forward to seeing you this WEEKDAY, MONTH XX at XX.XX! We are happy that so many people are interested and we have just enough space that everyone currently on the list can join. Please update your RSVP if you cannot attend the event so that new people can join us.
+We are looking forward to seeing you this **WEEKDAY, MONTH XX at XX.XX**! We are happy that so many people are interested and we have just enough space that everyone currently on the list can join. **Please update your RSVP** if you cannot attend the event so that new people can join us.
 
-Location & Food: There will be pizza and drinks 🍕🥳 and you can find the location details in the meetup description.
+**Location & Food:** There will be pizza and drinks 🍕🥳 The meetup will take place at COMPANYNAME, ADDRESS. INFOS ABOUT NEAREST TRAIN STATION, CAR PARKING, ETC.
 
 Almost as important as pizza: the website for the React Cologne Group https://react.cologne/. There, you can also find our Slack channel which you are more than welcome to join. 
 
