@@ -40,3 +40,9 @@ assignees: ''
 | 19:30 - 20:20 | Sessions
 | 20:20 | Break
 | 20:30-21:20 | Sessions
+
+*After the event*
+
+- Thanks for being a host!
+- If you need a list of participants for catering, you can download it from the meetup.com event page.
+- Close this issue.
