@@ -1,6 +1,6 @@
 ---
 name: Meetup event
-about: You're the host of a meetup event. This issue is for organization purposes.
+about: If you're the host of a meetup event, this issue is for your organization purposes.
 title: "[MONTH] meetup at [HOST/LOCATION]"
 labels: meetup event
 assignees: ''
